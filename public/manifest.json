@@ -1,0 +1,17 @@
+{
+    "name": "Medica",
+    "short_name": "Medica",
+    "start_url": "/index.php",
+    "background_color": "#77ef67",
+    "description": "The power to heal",
+    "display": "fullscreen",
+    "theme_color": "#77ef67",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "489x489",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
